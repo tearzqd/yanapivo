@@ -10,10 +10,10 @@ using namespace std;
 
 int main()
 {
-    setlocale(LC_ALL, "Russian");
+    setlocale(LC_ALL, "ru");
     cout << "Laboratory N8. GIT\n";
-    cout << "Variant 3. Prepositions\n";
-    cout << "Author: Timofei Fedorchenko\n\n";
+    cout << "Variant 6. Prepositions\n";
+    cout << "Author: Iluha Zhur\n\n";
     prp_stuff* subscriptions[MAX_FILE_ROWS_COUNT];
     int size;
     try
